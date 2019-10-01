@@ -1,6 +1,6 @@
 {
   "name": "gatsby-theme-autokin-core",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "main": "index.js",
   "description": "A theme for bootstrapping Gatsby websites",
   "dependencies": {
