@@ -8,7 +8,7 @@ exports.onCreateWebpackConfig = ({loaders, actions}) => {
       rules: [
         {
           test: /\.js$/,
-          include: path.dirname(require.resolve('gatsby-theme-apollo-core')),
+          include: path.dirname(require.resolve('gatsby-theme-autokin-core')),
           use: [loaders.js()]
         }
       ]
